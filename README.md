@@ -7,6 +7,21 @@ In this project, a Convolutional Neural Network is used to estimate the texture 
 ## Dataset
 The images and respective texture indexes were provided by the Department of Transport Engineering (DET) of the Federal University of Ceara (UFC).
 The DataPreparation.ipynb notebook contains the code responsible for preparing the data in the right format to be run in the other notebooks.
+The ExtractionData.ipynb notebook is not necessary. It was previously used to get the data from the original folders and organize them in the current repository.
+
+## Requisits
+The project uses Python 3.5, and the following libraries need to be installed:
+- Numpy
+- Pandas
+- matplotlib
+- Seaborn
+- scikit-learn
+- tensorflow
+- Pillow
+- scipy
+
+To find which version is being used, check the *requirements.txt* file.
+
 
 ## Notebooks
 
