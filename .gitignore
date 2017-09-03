@@ -1,4 +1,4 @@
 *.tif
 *.png
-*.hdf5
+model.weights.best.hdf5
 *.npy
