@@ -31,4 +31,4 @@ To find which version is being used, check the *requirements.txt* file.
 
 ## Report
 The *proposal.pdf* contains the Project Proposal.
-The actual project report is in the file *report.pdf*.
+The actual project report is the *report.pdf*.
